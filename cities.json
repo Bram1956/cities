@@ -1091,6 +1091,18 @@
             "admin_name": "Migori",
             "capital": "admin",
             "id": 1404478510
+        },
+        {
+            "city": "Kampala",
+            "city_ascii": "Kamp",
+            "latitude": -1.0635,
+            "longitude": 34.6743,
+            "country": "Uganda",
+            "iso2": "UG",
+            "iso3": "UG",
+            "admin_name": "Kampala",
+            "capital": "admin",
+            "id": 1404000107
         }
     ]
 }
